@@ -28,7 +28,7 @@ const Metadata = () => {
       <meta name="msapplication-TileColor" content="#da532c" />
       <meta name="theme-color" content="#ffffff" />
 
-      <title>ContentQL Builder</title>
+      <title>fsadp Builder</title>
       <meta
         name="description"
         content="React JSX visual editor for Chakra UI"
@@ -45,7 +45,7 @@ const Metadata = () => {
       <meta property="og:title" content="OpenChakra" />
       <meta
         property="og:description"
-        content="ContentQL Builder is a visual editor for React based on Chakra UI"
+        content="fsadp Builder is a visual editor for React based on Chakra UI"
       />
       <meta
         property="og:image"
@@ -60,7 +60,7 @@ const Metadata = () => {
       <meta name="twitter:title" content="OpenChakra" />
       <meta
         name="twitter:description"
-        content="ContentQL Builder is a visual editor for React based on Chakra UI"
+        content="fsadp Builder is a visual editor for React based on Chakra UI"
       />
       <meta
         name="twitter:image"
@@ -70,7 +70,7 @@ const Metadata = () => {
       <meta property="og:title" content="OpenChakra" />
       <meta
         property="og:description"
-        content="ContentQL Builder is a visual editor for React based on Chakra UI"
+        content="fsadp Builder is a visual editor for React based on Chakra UI"
       />
       <meta property="og:type" content="website" />
       <meta property="og:url" content="https://openchakra.app" />

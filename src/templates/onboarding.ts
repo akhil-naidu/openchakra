@@ -429,7 +429,7 @@ export const onboarding: IComponents = {
   'comp-K6GPAPKNQACEE': {
     id: 'comp-K6GPAPKNQACEE',
     props: {
-      children: '⚡️Welcome to ContentQL Builder',
+      children: '⚡️Welcome to fsadp Builder',
       fontSize: '3xl',
       fontWeight: 'bold',
     },
