@@ -71,7 +71,7 @@ const HeaderMenu = () => {
               <Box mr={2} as={GoRepo} />
               Chakra UI Docs
             </MenuItemLink>
-            <MenuItemLink href="https://github.com/premieroctet/openchakra/issues">
+            <MenuItemLink href="https://github.com/akhil-naidu/openchakra/issues">
               <Box mr={2} as={FaBomb} />
               Report issue
             </MenuItemLink>

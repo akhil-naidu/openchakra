@@ -257,13 +257,13 @@ const Header = () => {
           direction="row"
           spacing="2"
         >
-          <Link isExternal href="https://github.com/premieroctet/openchakra">
+          <Link isExternal href="https://github.com/akhil-naidu/openchakra">
             <Box as={DiGithubBadge} size={32} color="gray.200" />
           </Link>
           <Box lineHeight="shorter" color="white" fontSize="xs">
             by{' '}
-            <Link isExternal href="https://premieroctet.com" color="teal.100">
-              Premier Octet
+            <Link isExternal href="https://akhilnaidu.com" color="teal.100">
+              Akhil Naidu
             </Link>
           </Box>
         </Stack>
